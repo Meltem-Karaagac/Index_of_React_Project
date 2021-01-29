@@ -15,7 +15,6 @@
             <td>MERN (MONGODB-EXPRESS.JS-REACT-NODE.JS) Shop App</td>
             <td><a href="https://github.com/Meltem-Karaagac/MERN_Shop_Project" target="_blank">Repo details</a></td>
             <td><a href=http://3.140.92.119/ target="_blank">App details (AWS deployed) </a></td>
-            <td><a href="https://mern-shop-project1.herokuapp.com/" target="_blank">App details (Heroku deployed)</a></td>
             <td><img src="./animation_500_kd7ngokt.gif" alt="react" height="130"></td> 
         </tr>
         <tr>
