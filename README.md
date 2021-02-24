@@ -19,7 +19,7 @@
         </tr>
         <tr>
             <td>React Apple App</td>
-            <td><a href="https://github.com/Meltem-Karaagac/Apple_app/tree/main" target="_blank"> Repo details</a></td>
+            <td><a href="https://github.com/Meltem-Karaagac/Apple_app" target="_blank"> Repo details</a></td>
             <td><a href="https://react-apple-app.herokuapp.com/" target="_blank">App details</a></td>
             <td><img src="./animation_500_kd7ngokt.gif" alt="react" height="130"></td> 
         </tr>
